@@ -1,6 +1,6 @@
 # project4
 Coding for the HACK platform
 
-- [ ] Mult
+- [x] Mult
 - [ ] Fill
 - [ ] Move
