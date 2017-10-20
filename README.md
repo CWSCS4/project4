@@ -2,5 +2,5 @@
 Coding for the HACK platform
 
 - [x] Mult
-- [ ] Fill
+- [X] Fill
 - [ ] Move
