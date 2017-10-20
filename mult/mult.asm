@@ -47,6 +47,6 @@
 	@sum
 	D=M
 
-	// place value if sum in RAM[2]
+	// place value of sum in RAM[2]
 	@2
 	M=D
