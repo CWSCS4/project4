@@ -3,4 +3,4 @@ Coding for the HACK platform
 
 - [x] Mult
 - [X] Fill
-- [ ] Move
+- [X] Move
