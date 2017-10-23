@@ -43,11 +43,13 @@ M=0
 	0;JMP
 
 (RESETLOC)
+	// clear the very last line because going backwards at 0 does not clear correctly
 	@511
 	D=A
 	@SCREEN
 	A=A+D
 	M=0
+	// reset the location to 0 to start a new square
 	@loc
 	M=0
 	@MAKESQUARE
